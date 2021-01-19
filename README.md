@@ -1,2 +1,3 @@
 # calculator-python
-A calculator made entirely with Python
+A calculator made entirely with Python.
+That's it.
