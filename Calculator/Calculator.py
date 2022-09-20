@@ -122,4 +122,4 @@ if mode == "number":
             print("The calculation has exceeded the 64-bit integer limit.\nPlease try a smaller calculation.")
     else: #in case all if/elif statements fail
         print("That didn't work. Please reboot the app.") #code for the Number calculator
-
+input("The program has finished. Press ENTER to close the app.") #in case the program used to run the code closes automatically when done
